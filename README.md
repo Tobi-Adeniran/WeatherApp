@@ -1,2 +1,2 @@
 # WeatherApp
-Displays basic Weather information
+Displays basic Weather information based on state
