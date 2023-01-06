@@ -37,7 +37,6 @@ def index(request):
             "temp": str(list_of_data['main']['temp']) + 'k',
             "pressure": str(list_of_data['main']['pressure']),
             "humidity": str(list_of_data['main']['humidity']),
-            "sea_level": str(list_of_data['main']['sea_level']),
             "name": str(list_of_data['name']),
         }
         print(data)
